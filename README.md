@@ -1,34 +1,35 @@
-## Hi, I'm Daiyan Muslim 👋
+## Hi, I'm Daiyan Muslim 👋 Fullstack Developer
 
-Fullstack developer from East Java, Indonesia. I build web apps with React, Next.js, Node.js, Express, TypeScript, PostgreSQL, and Docker.
+## 🚀 About Me
+I'm a 20-year-old fullstack developer from Sidoarjo, East Java, passionate about building modern web applications with React, Next.js, and Node.js.
 
-## About Me
-- 20 years old.
-- Focused on building practical web applications.
-- Currently learning system design and cloud architecture.
-- Interested in open-source and scalable backend systems.
+- 🔭 Currently working on: **Next.js full-stack apps with TypeScript**
+- 🌱 Learning: **System Design & Cloud Architecture**
+- 🎯 2026 Goals: Contribute to major open-source projects & build scalable apps
+- 📍 Location: Surabaya, East Java, Indonesia
 
-## Tech Stack
+## 🧰 Tech Stack
 | Category | Technologies |
 |----------|--------------|
-| Frontend | React, Next.js, TypeScript |
-| Backend | Node.js, Express.js, TypeScript |
-| Database | PostgreSQL, Prisma |
-| Tools | Docker, Git, VS Code, Postman |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, TypeScript |
+| **Database** | PostgreSQL, Prisma ORM |
+| **Tools** | Docker, Git, VS Code, Postman |
+| **Other** | REST API, GraphQL, JWT Authentication |
 
-## Featured Projects
+## 🔥 Featured Projects
 
-### 1. [Task Management API](https://crm-alkautsar.vercel.app)
-A RESTful API with authentication and role-based access control.
+### 1. Task Management API
+- RESTful API dengan authentication & role-based access
+- 🏷️ Tech: Node.js, Express, TypeScript, PostgreSQL, Docker
 
-Tech: Node.js, Express, TypeScript, PostgreSQL, Docker.
+### 2. Website Pesantren Al-Kautsar
+- Website profile lembaga dengan admin dashboard untuk penyimpanan data PPDB.
+- Fitur: export dokumen, pengelolaan data, dan dashboard admin.
+- Tech: React, Node.js, Express, PostgreSQL, Docker.
 
-### 2. [Website Pesantren Al-Kautsar](https://pesantrenalkautsar.id)
-School profile website with an admin dashboard for PPDB data management, document export, and internal administration.
 
-Tech: React, Node.js, Express, PostgreSQL, Docker.
+## 🌐 Connect With Me
+- 📧 Email: daiyanmuslim4@gmail.com
 
-## Contact
-- Email: [daiyanmuslim4@gmail.com](mailto:daiyanmuslim4@gmail.com)
-
-⭐ If you find my work useful, feel free to star my repositories.
+⭐ **If you like my work, consider giving a star to my repositories!**
