@@ -23,12 +23,11 @@ I'm a 20-year-old fullstack developer from Sidoarjo, East Java, passionate about
    - RESTful API dengan authentication & role-based access
    - 🏷️ Tech: Node.js, Express, TypeScript, PostgreSQL, Docker
 
+### 2. [Website Pesantren Al-Kautsar](https://pesantrenalkautsar.id)
+- Website profile lembaga dengan admin dashboard untuk penyimpanan data PPDB.
+- Fitur: export dokumen, pengelolaan data, dan dashboard admin.
+- Tech: React, Node.js, Express, PostgreSQL, Docker.
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoyrCode&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoyrCode&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=anoyrCode)
 
 ## 🌐 Connect With Me
 - 📧 Email: [daiyanmuslim4@gmail.com](mailto:daiyanmuslim4@gmail.com)
