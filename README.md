@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Daiyan%20Muslim&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi, I'm Daiyan Muslim 👋</h1>
+<h1 align="center">Hi, I'm Anoyr 👋</h1>
 <p align="center">
   Self-taught Fullstack Developer | React • Next.js • Node.js • TypeScript
 </p>
@@ -11,10 +11,10 @@
   <a href="mailto:daiyanmuslim4@gmail.com">
     <img src="https://img.shields.io/badge/Email-daiyanmuslim4%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/daiyan-muslim-6b03763b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com">
+  <a href="https://pesantrenalkautsar.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
