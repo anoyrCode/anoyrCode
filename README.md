@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:f59e0b&height=200&section=header&text=Anoyr&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20East%20Java%2C%20Indonesia&descAlignY=58&descSize=15&descColor=94a3b8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:78350f,70:b45309,100:f59e0b&height=200&section=header&text=Anoyr&fontSize=52&fontColor=fef3c7&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20East%20Java%2C%20Indonesia&descAlignY=58&descSize=15&descColor=fcd34d" />
 </p>
 
 <br />
@@ -138,5 +138,5 @@ const anoyr = {
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1e3a5f,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:b45309,60:78350f,100:1c0a00&height=120&section=footer" />
 </p>
