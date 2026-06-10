@@ -140,10 +140,6 @@ const anoyr = {
     <img src="https://img.shields.io/badge/Gmail-daiyanmuslim4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/daiyan-muslim-6b03763b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daiyan%20Muslim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://pesantrenalkautsar.id">
     <img src="https://img.shields.io/badge/Portfolio-pesantrenalkautsar.id-f59e0b?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
