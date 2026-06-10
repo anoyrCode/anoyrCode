@@ -97,6 +97,22 @@ const anoyr = {
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 SIPOS — Student Point System</h3>
+      <p>Multi-role web app for managing student conduct points at a pesantren — admin dashboard, staff input, parent portal, UKS health records, and analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/anoyrCode/sipos">
+        <img src="https://img.shields.io/badge/→%20View%20Project-0d1117?style=for-the-badge&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 <br />
