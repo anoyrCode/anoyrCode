@@ -122,13 +122,13 @@ const anoyr = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoyrCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=94a3b8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anoyrCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=94a3b8&cache_seconds=1" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoyrCode&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoyrCode&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=94a3b8&cache_seconds=1" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anoyrCode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" height="160" />
+  <img src="https://streak-stats.demolab.com?user=anoyrCode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&cache_seconds=1" height="160" />
 </p>
 
 <br />
