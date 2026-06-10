@@ -49,8 +49,6 @@
 
 ```ts
 const anoyr = {
-  name:     "Daiyan Muslim",
-  alias:    "Anoyr",
   location: "East Java, Indonesia 🇮🇩",
   started:  2023,
   stack:    ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
