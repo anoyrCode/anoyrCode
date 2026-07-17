@@ -1,68 +1,88 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:78350f,70:b45309,100:f59e0b&height=200&section=header&text=Anoyr&fontSize=52&fontColor=fef3c7&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20East%20Java%2C%20Indonesia&descAlignY=58&descSize=15&descColor=fcd34d" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:78350f,70:b45309,100:f59e0b&height=200&section=header&text=Anoyr&fontSize=52&fontColor=fef3c7&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%94%20East%20Java%2C%20Indonesia&descAlignY=58&descSize=15&descColor=fcd34d" />
 
 <br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=560&lines=Building+SIPOS+%E2%80%94+a+school+points%2Fattendance+system;Self-taught+since+2023%2C+still+not+done+learning;Next.js+%2B+TypeScript+%2B+PostgreSQL+by+choice;Currently+debugging+something%2C+probably" />
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/📍-East%20Java%2C%20Indonesia-1c0a00?style=for-the-badge&labelColor=f59e0b&color=1c0a00" />
+<img src="https://img.shields.io/badge/🌱-Coding%20since%202023-1c0a00?style=for-the-badge&labelColor=f59e0b&color=1c0a00" />
+<img src="https://img.shields.io/badge/🟢-Open%20to%20work-1c0a00?style=for-the-badge&labelColor=f59e0b&color=1c0a00" />
+
+</div>
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
 
 ## `whoami`
 
 ```ts
 const anoyr = {
-  location: "East Java, Indonesia 🇮🇩",
-  started:  2023,
-  stack:    ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
-  focus:    ["Fullstack Apps", "REST APIs", "Admin Systems", "Clean Architecture"],
+  name:      "Daiyan Muslim",
+  alias:     "Anoyr",
+  location:  "East Java, Indonesia 🇮🇩",
+  started:   2023,
+  stack:     ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
+  focus:     ["Fullstack Apps", "REST APIs", "Admin Systems", "Clean Architecture"],
   currently: "Building scalable web apps and sharpening backend skills",
+
+  philosophy() {
+    return "Clean, functional, made to last — no half-finished side projects.";
+  },
 };
 ```
 
-> Self-taught developer who started from zero in 2023 and hasn't stopped since.  
-> I build things that are clean, functional, and made to last.
+<details>
+<summary><b>📜 the origin story (click to expand)</b></summary>
+<br>
+
+Self-taught, started from zero in 2023. No bootcamp, no CS degree — just
+documentation tabs open at 2 AM and a habit of rebuilding the same feature
+three times until it stops feeling wrong. Still doing that, just with
+bigger features now.
+
+</details>
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
+
+## Skill Set
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="42" height="42" /><br><sub><b>Express</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" /><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" /><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" /><br><sub><b>Git</b></sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>⚙️ daily-driver comfort level (click to expand)</b></summary>
+<br>
+
+| Area | Comfort | Notes |
+|---|---|---|
+| Frontend (React/Next.js) | ●●●●○ | App Router, RSC, form-heavy admin UIs |
+| Backend (Node/Express) | ●●●●○ | REST APIs, auth, role-based access |
+| Database (PostgreSQL) | ●●●○○ | Schema design, RLS, query tuning |
+| DevOps (Docker) | ●●●○○ | Containerizing what I ship |
+| Currently leveling up | ▸ | Backend architecture & system design |
+
+</details>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
 
 ## Featured Projects
 
@@ -109,13 +129,37 @@ const anoyr = {
         <img src="https://img.shields.io/badge/→%20View%20Project-0d1117?style=for-the-badge&logoColor=white" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <details>
+      <summary><b>🛠️ what's actually inside SIPOS</b></summary>
+      <br>
+      <ul>
+        <li>Geofenced attendance (clock in/out, radius-based, override + audit trail)</li>
+        <li>Granular role permissions — per-module, not just admin/staff</li>
+        <li>Leave/sick-leave requests with approval workflow + document proof</li>
+        <li>Excel/PDF export for every report the school actually asks for</li>
+      </ul>
+      </details>
+    </td>
   </tr>
 </table>
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
+
+## Now
+
+> Last updated: 2026-07
+
+- 🔨 Actively building & polishing **SIPOS** in production — real users, real edge cases
+- 🧠 Studying system design & scalable backend patterns
+- 📦 Weighing whether to package a solo dev studio around SIPOS as a product
+- ☕ Accepting that "just one more feature" is not a valid bedtime
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
 
 ## GitHub Stats
 
@@ -129,20 +173,32 @@ const anoyr = {
   <img src="https://streak-stats.demolab.com?user=anoyrCode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&cache_seconds=1" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anoyrCode&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</p>
+
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,50:b45309,100:1c0a00&height=3&width=100%" />
 
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:anoyrcode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anoyrcode%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:daiyanmuslim4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-daiyanmuslim4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/daiyan-muslim-6b03763b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Daiyan%20Muslim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://pesantrenalkautsar.id">
     <img src="https://img.shields.io/badge/Portfolio-pesantrenalkautsar.id-f59e0b?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anoyrCode&label=Profile%20Views&color=f59e0b&style=flat-square" />
 </p>
 
 <br />
